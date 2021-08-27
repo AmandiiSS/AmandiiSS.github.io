@@ -54,7 +54,6 @@ BODY {
   margin-bottom: 100px;
   background-size: 100%;
   background-repeat: no-repeat;
-  size: 100%;
   width: 90%;
   height: 100%;
 }
@@ -92,7 +91,7 @@ div {
 
 @media screen and (max-width: 700px) {
   h1 {
-    font-size: 20px;
+    font-size: 20pt;
   }
 
   .Foto2 {
@@ -128,7 +127,6 @@ div {
 	  margin-left: 10px;
 	  margin-right: 10px;
 	  margin-bottom: 50px;
-	  size: 100%;
 	  width: 90%;
 	  height: 100%;
 	}
@@ -188,7 +186,6 @@ div {
 	  margin-left: 10px;
 	  margin-right: 10px;
 	  margin-bottom: 50px;
-	  size: 100%;
 	  width: 90%;
 	  height: 100%;
 	}

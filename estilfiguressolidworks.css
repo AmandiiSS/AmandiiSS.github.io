@@ -68,13 +68,18 @@ div {
 }
 
 .Foto1 {
-  padding: 5px; /*Marge intern per per exemple als bordes*/
+  padding: 3px; /*Marge intern per per exemple als bordes*/
   border-radius: 8px;
-  margin-left: 20px; /*T'ho centra respecte la divisio si aquesta te una amplada*/
+  margin-left: 10px; /*T'ho centra respecte la divisio si aquesta te una amplada*/
   margin-bottom: 10px;
   border: 3px solid black;
-  width: 350px;
-  display: block;
+  height: 350px;
+  position: relative;
+}
+
+.gallery {
+  margin: auto;
+
 }
 
 @media screen and (max-width: 700px) {
